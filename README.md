@@ -11,7 +11,7 @@ respectivo peso.
 
 ## Resultados
 Depois do algoritmo ter sido implementado, foi possível realizar um comparativo, mostrado na tabela abaixo, no que se refere a eficiência em relacão ao tempo que cada
-grafo levou para realizar a execução do algoritmo e a soma dos pesos mínimo gerado da AGM.
+grafo levou para realizar a execução do algoritmo e a soma dos pesos mínimos gerados da AGM.
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/86075123/176485800-f8398856-e122-4019-ae06-64066aba9d68.jpg"/>
 </div>
